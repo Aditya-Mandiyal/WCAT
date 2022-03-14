@@ -1,2 +1,3 @@
-var arr=[1,2,3,4,5];
-console.log(arr.slice(2));
+var arr=[];
+arr.push()
+console.log(arr);
